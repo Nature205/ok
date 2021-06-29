@@ -1,0 +1,37 @@
+{
+    "name": "最後結尾OK",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*",
+        "color": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "storyboard": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#ef27275c570030c09dd1b9e0db2f63a8844b0848"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.44",
+        "tag": "v1.4.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a22995c560b516a501328716333b8cc8caf7cc9c",
+        "target": "1.4.45",
+        "pxt": "6.12.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
